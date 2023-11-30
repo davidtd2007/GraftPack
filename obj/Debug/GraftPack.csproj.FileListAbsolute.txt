@@ -1,0 +1,36 @@
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.csprojAssemblyReference.cache
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.Properties.Resources.resources
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.csproj.GenerateResource.cache
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\GraftPack\bin\Debug\GraftPack.exe.config
+C:\Users\david\source\repos\GraftPack\bin\Debug\GraftPack.exe
+C:\Users\david\source\repos\GraftPack\bin\Debug\GraftPack.pdb
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.exe
+C:\Users\david\source\repos\GraftPack\obj\Debug\GraftPack.pdb
+H:\My Documents\development\GraftPack\bin\Debug\GraftPack.exe.config
+H:\My Documents\development\GraftPack\bin\Debug\GraftPack.exe
+H:\My Documents\development\GraftPack\bin\Debug\GraftPack.pdb
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.csproj.AssemblyReference.cache
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.Properties.Resources.resources
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.csproj.GenerateResource.cache
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.csproj.CoreCompileInputs.cache
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.exe
+H:\My Documents\development\GraftPack\obj\Debug\GraftPack.pdb
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.exe.config
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.exe
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.pdb
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csprojAssemblyReference.cache
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.Properties.Resources.resources
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csproj.GenerateResource.cache
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.exe
+C:\Users\david\Desktop\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.pdb
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.exe.config
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.exe
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\bin\Debug\GraftPack.pdb
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csprojAssemblyReference.cache
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.Properties.Resources.resources
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.exe
+C:\Users\david\Desktop\Graphics\GraftPack\GraftPack-20230322T161445Z-001\GraftPack\obj\Debug\GraftPack.pdb
